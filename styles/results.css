@@ -1,0 +1,17 @@
+#main-info {
+    background-color: lightgray;
+    color: black;
+    float: left;
+    padding: 30px;
+    padding-top: 15px;
+    margin-top: -2px;
+    margin-left: -2px;
+    margin-right: -2px;
+    border: 2px solid black;
+    color: #004a48;
+}
+img {
+    float: right;
+    padding-left: 30px;
+    padding-top: 15px;
+}

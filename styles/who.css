@@ -1,0 +1,45 @@
+#main-info {
+    background-color: lightgray;
+    color: #010a63;
+    float: left;
+    padding: 30px;
+    padding-top: 15px;
+    width: 64%;
+}
+#image {
+    float: left;
+    padding: 30px;
+    width: 25%;
+    text-align: center;
+    color: #010a63;
+}
+#image2 {
+    float: right;
+    width: 17%;
+    padding: 25px;
+    padding-left: 15px;
+    text-align: center;
+    color: #010a63;
+}
+#image3 {
+    float: left;
+    padding: 25px;
+    width: 23%;
+    text-align: center;
+    color: #010a63;
+}
+#main-info2 {
+    background-color: lightgray;
+    color: #010a63;
+    float: left;
+    padding: 30px;
+    padding-top: 15px;
+    width: 45%;
+}
+hr {
+    clear: both;
+    border: 1px solid black;
+}
+#content {
+    height: 100%;
+}
